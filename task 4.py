@@ -1,0 +1,10 @@
+name=("rohan")
+print("my_name_is",name)
+a=50
+b=70
+TOTAL=(a+b)
+print(TOTAL)
+C=10
+D=20
+print(10<20)
+print(("add",C+D),("multiply",C*D),("sub",C-D),("div",C/D))
